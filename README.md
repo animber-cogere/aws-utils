@@ -170,6 +170,8 @@ Script to help extract spot instance information to answer questions such as:
 
 ![index](https://github.com/animber-coder/aws-utils/blob/main/images/location-price.png)
 
+![index](https://github.com/animber-coder/aws-utils/blob/main/images/interrupt-rate.png)
+
 
 ## Contribute
 
